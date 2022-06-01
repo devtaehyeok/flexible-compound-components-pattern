@@ -1,2 +1,3 @@
 # flexible-compound-components-pattern
-Created with CodeSandbox
+typescript version of :  
+https://github.com/kentcdodds/advanced-react-patterns/blob/main/src/final/04.extra-1.js
